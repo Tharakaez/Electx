@@ -1,3 +1,3 @@
 # Electx
 This is a showcase website of the ELECTX mobile APP. 
-https://user-images.githubusercontent.com/100085288/205478663-06512b06-728e-4c2c-8f55-961340826601.mp4
+![image](https://user-images.githubusercontent.com/100085288/205478741-70f2780a-4780-4c0c-8986-a4acb145bd78.png)
